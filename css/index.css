@@ -3,6 +3,10 @@ html {
     font-family: 'Lato', sans-serif;
 }
 
+h1 {
+    text-align: center;
+}
+
 a {
     text-decoration: none;
     color: black;
@@ -10,6 +14,8 @@ a {
 
 div {
     max-width: 50%;
+    text-align: center;
+    margin: auto;
 }
 
 footer {
